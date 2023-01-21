@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Hello from React</h1>
+        <h2>Sample axios library</h2>
         <Weather city="Paris" />
       </header>
     </div>
